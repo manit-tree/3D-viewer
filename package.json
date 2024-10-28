@@ -1,0 +1,19 @@
+{
+  "name": "3D-viewer",
+  "description": "Mini project for learning how to use threepipe.js",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "lightningcss": "^1.25.1",
+    "vite": "^5.4.1",
+    "vite-plugin-css-injected-by-js": "^3.4.0"
+  },
+  "dependencies": {
+    "threepipe": "^0.0.33"
+  }
+}
