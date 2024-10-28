@@ -2,6 +2,10 @@
 
 Mini project for learning how to use threepipe.js
 
+### Demo
+
+[https://3-d-viewer-jfemamj71-manittrees-projects.vercel.app](https://3-d-viewer-jfemamj71-manittrees-projects.vercel.app)
+
 ### Screenshot
 
 ![image](https://github.com/user-attachments/assets/4debe594-5669-4de2-913a-3372ee28cf9e)
